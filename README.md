@@ -46,6 +46,6 @@ Location.csv: 🌍 Geographical/location details.
 
 
 🖼️ **Screenshots**
-([Sales_Dashboard_Screenshot]() with sales, profit, and quantity KPIs.
+([Sales_Dashboard_Screenshot](https://github.com/KartikIITH/Sales-Dashboard-Tableau_Project/blob/main/Tableau%20Dashboard%20File/Sales_Dashboard_Screenshot.png) with sales, profit, and quantity KPIs.
 
 Subcategory bar charts and trend graphs.
