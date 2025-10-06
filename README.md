@@ -19,7 +19,10 @@ This repository contains an interactive Tableau Sales Dashboard project. The das
 
 🔍 **Comparative Analysis:** Drill-down ability for 2022 vs 2023 performance (highest vs lowest indicators).
 
+
+
 🗂️ **Data Sources**
+
 The dashboard uses the following datasets:
 
 Orders.csv: 💼 Detailed transactions (sales, profit, discount, product, customer, segment).
@@ -28,16 +31,19 @@ Customers.csv: 🧑‍💼 Customer information and mapping.
 
 Location.csv: 🌍 Geographical/location details.
 
+
 🚀 How to Use
 📥 Clone this repository.
 
 🖥️ Open Tableau (Desktop or Public edition).
+
 
 📂 Connect to the provided Orders.csv, Customers.csv, and Location.csv.
 
 🔮 Import the dashboard mockup or use included screenshots for reference.
 
 🎯 Explore filterable KPI cards, breakdowns, and trend visualizations.
+
 
 🖼️ **Screenshots**
 ([Sales_Dashboard_Screenshot]() with sales, profit, and quantity KPIs.
